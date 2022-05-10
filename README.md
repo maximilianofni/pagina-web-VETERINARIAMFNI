@@ -1,7 +1,7 @@
 # pagina-web-VETERINARIAMFNI
 
-+ Pagina web sencilla de una veterinaria
+Pagina web sencilla de una veterinaria (con HTML5, CSS, JS)
 
-+ testing manual de la pagina
+testing manual de la pagina (describiendo casos de prueba)
 
-+ test automaticos con KATALON STUDIO
+test automaticos con KATALON STUDIO
