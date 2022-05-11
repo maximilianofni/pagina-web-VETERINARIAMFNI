@@ -148,13 +148,36 @@ footer .redes a
 	font-weight: bold;
 }
 
-.boton.boton-blanco
+.boton.boton-blanco1
 {
 	background-color: white;
 	color: #00c7b4;
 	font-size: 16px;
 	font-weight: bold;
 	border: solid #00c7b4;
+}
+
+.boton.boton-blanco2
+{
+	background-color: white;
+	color: #00c7b4;
+	font-size: 16px;
+	font-weight: bold;
+	border: solid #00c7b4;
+}
+
+.boton.boton-blanco3
+{
+	background-color: white;
+	color: #00c7b4;
+	font-size: 16px;
+	font-weight: bold;
+	border: solid #00c7b4;
+}
+
+a.boton:hover {
+	color: gray;
+	border: solid;
 }
 
 .boton.boton-negro
