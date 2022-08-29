@@ -51,8 +51,7 @@ header .container nav a
 }
 
 header .container nav a:hover {
-	color: gray;
-	border: solid;
+	background-color: gray;
 	text-decoration: none;
 	padding: 15px;
     display:inline-block;
@@ -176,7 +175,7 @@ footer .redes a
 }
 
 a.boton:hover {
-	color: gray;
+	background-color: gray;
 	border: solid;
 }
 
